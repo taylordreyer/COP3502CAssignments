@@ -7,3 +7,6 @@
 [submodule "Lab-Assignment-8"]
 	path = Lab-Assignment-8
 	url = https://github.com/taylordreyer/Lab-Assignment-8.git
+[submodule "Lab-Assignment-9"]
+	path = Lab-Assignment-9
+	url = https://github.com/taylordreyer/Lab-Assignment-9.git
