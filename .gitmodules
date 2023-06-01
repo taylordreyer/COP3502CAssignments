@@ -10,3 +10,6 @@
 [submodule "Lab-Assignment-9"]
 	path = Lab-Assignment-9
 	url = https://github.com/taylordreyer/Lab-Assignment-9.git
+[submodule "labAssignment10"]
+	path = labAssignment10
+	url = https://github.com/taylordreyer/labAssignment10.git
