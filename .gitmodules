@@ -13,3 +13,6 @@
 [submodule "labAssignment10"]
 	path = labAssignment10
 	url = https://github.com/taylordreyer/labAssignment10.git
+[submodule "compareSortingAlgorithms"]
+	path = compareSortingAlgorithms
+	url = https://github.com/taylordreyer/compareSortingAlgorithms.git
